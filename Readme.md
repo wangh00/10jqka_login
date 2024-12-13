@@ -1,6 +1,9 @@
 #同花顺登录
 
+#代码
+> 配置TongHuaShunLogin(user='xxxxx', password='xxxxx')，随后运行start方法会返回登录后的cookie
 
+> 注意如果登录多了会风控，会提示手机验证码，需要隔段时间再使用
 
 
 >1、第一步
@@ -39,5 +42,5 @@
 
 
 
-ps:未上传关键encrypt.js,加密.js，有需要点个小心心,csdn私聊我>>[CSDN帖子](https://blog.csdn.net/wh00011/article/details/144443511)
+ps:[CSDN帖子](https://blog.csdn.net/wh00011/article/details/144443511) 如果对您有用，点个小心心^^
 

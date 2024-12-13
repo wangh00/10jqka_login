@@ -84,4 +84,4 @@ function calculatePasswordScore(password) {
   }
 
 
-  console.log(calculatePasswordScore('zxcvbnm123'))
+  console.log(calculatePasswordScore('123456'))

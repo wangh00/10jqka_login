@@ -1,9 +1,8 @@
-#同花顺登录
+# 同花顺登录
 
-#代码
-> 配置TongHuaShunLogin(user='xxxxx', password='xxxxx')，随后运行start方法会返回登录后的cookie
-
-> 注意如果登录多了会风控，会提示手机验证码，需要隔段时间再使用
+# 代码
+## 配置TongHuaShunLogin(user='xxxxx', password='xxxxx')，随后运行start方法会返回登录后的cookie
+## 注意如果登录多了会风控，会提示手机验证码，需要隔段时间再使用
 
 
 >1、第一步
@@ -18,7 +17,7 @@
 
 
 
-#登录请求大致思路
+# 登录请求大致思路
 >1、第一步
 首先需要请求pwdRangeCalcRegular.json接口，获取到密码评分规则，然后通过网站的方法得到密码的分数。因为此接口返回的密码评分规则是不变的，所以可以直接复制下来用，省去这一个请求。
 

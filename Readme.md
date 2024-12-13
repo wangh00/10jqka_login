@@ -39,5 +39,5 @@
 
 
 
-ps:未上传关键encrypt.js,加密.js，有需要请csdn私聊>>[CSDN帖子](https://blog.csdn.net/wh00011/article/details/144443511)
+ps:未上传关键encrypt.js,加密.js，有需要点个小心心,csdn私聊我>>[CSDN帖子](https://blog.csdn.net/wh00011/article/details/144443511)
 

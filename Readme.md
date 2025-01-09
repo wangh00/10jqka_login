@@ -42,5 +42,5 @@
 
 
 ps:[CSDN帖子](https://blog.csdn.net/wh00011/article/details/144443511)
-安全考虑未提交加密.js和encrypt.js,有需要+qq:1184494003 或者csdn私聊
+安全考虑未提交加密.js和encrypt.js,有需要+qq:1184494003 或者csdn私聊,点star我就给！
 
